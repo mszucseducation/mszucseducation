@@ -2,12 +2,19 @@
 
 > My name is Monika. Please checkout all of my projects and skills!
 
-| Rank | Top Skills    |
-|-----:|---------------|
-|     1|  Javascript   |
-|     2|     HTML      |
-|     3|     CSS       |
 
+
+<details>
+  <summary>My top skills</summary>
+
+  
+  | Rank |  Top Skills   |
+  |-----:|---------------|
+  |     1|  Javascript   |
+  |     2|     HTML      |
+  |     3|     CSS       |
+
+</details>
 
 <!--
 **mszucseducation/mszucseducation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

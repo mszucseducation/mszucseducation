@@ -1,4 +1,11 @@
-### Hi there 👋
+<h2 align="center">Hello! I'm Monika Szucs</h2>
+<p align="center">
+  <a href="https://www.youtube.com/channel/UC8agiIh8FVOHDiS7BJq6kfw?sub_confirmation=1">
+    <img alt="youtube channel" title="Monika's Tech Education" src="https://img.shields.io/youtube/channel/subscribers/UC8agiIh8FVOHDiS7BJq6kfw?color=%55960c&logo=youtube&style=for-the-badge&labelColor=488207"/>
+  </a>
+
+</p>
+
 
 > My name is Monika. Please checkout all of my projects and skills!
 
